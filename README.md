@@ -40,7 +40,7 @@ I'm a passionate Frontend Developer from India who enjoys building fast, respons
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
-
+<!--
 ## 📌 Featured Projects
 
 ### 📊 Net Flow Manager
@@ -53,6 +53,7 @@ Built responsive web and mobile interfaces using React & React Native with featu
 A token management application for handling customer queues efficiently with a clean and responsive UI.
 
 ---
+-->
 
 ## 📈 GitHub Stats
 
@@ -78,10 +79,10 @@ A token management application for handling customer queues efficiently with a c
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vishwas-j-s)
+<!--
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome)](https://YOUR_PORTFOLIO)
-
+-->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwasjs2806@gmail.com)
 
 ---
