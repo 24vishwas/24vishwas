@@ -1,8 +1,16 @@
-# Hi there, I'm Vishwas 👋
+<div align="center">
+
+# Hi there, I'm Vishwas J S 👋
+
+### 🚀 Frontend Developer | React & React Native  | TypeScript
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38B2AC&center=true&vcenter=true&width=520&lines=Crafting+pixel-perfect+web+%26+mobile+UIs;Turning+ideas+into+scalable+code;React+%7C+React+Native+%7C+TypeScript)](https://git.io/typing-svg)
+
+</div>
 
 ### Frontend Developer | React | React Native | TypeScript
 
-I'm a passionate Frontend Developer from India who enjoys building fast, responsive, and user-friendly web and mobile applications. I love turning ideas into clean, scalable, and maintainable code while continuously learning new technologies.
+I'm a passionate Frontend Developer from Bengaluru who enjoys building fast, responsive, and user-friendly web and mobile applications. I love turning ideas into clean, scalable, and maintainable code while continuously learning new technologies.
 
 ## 🚀 About Me
 
@@ -58,12 +66,18 @@ A token management application for handling customer queues efficiently with a c
 ## 📈 GitHub Stats
 
 <p align="center">
+  
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=24vishwas&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=24vishwas&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=24vishwas&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=24vishwas&layout=compact&theme=tokyonight"/>
 
 </p>
+<!--
+<p align='center'>
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=24vishwas&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=24vishwas&theme=tokyo-night" />
+</p>
+-->
 
 ---
 
